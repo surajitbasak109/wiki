@@ -1,0 +1,10 @@
+Amazon Lambda
+Amazon Kinesis
+Amazon Simple Storage Service or S3
+AWS Amplify
+Amazon API Gateway
+Amazon Elastic File System (EFS)
+Elastic Block Store (EBS)
+Elastic Fabric Adapter (EFA)
+Amazon Resource Name (ARN)
+Elastic Compute Cloud (EC2)
