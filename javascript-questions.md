@@ -1,5 +1,8 @@
 # JavaScript Interview questions
 
+* TOC
+{:toc}
+
 ## 1. What is the difference between named and arrow functions?
 
 ### Named Functions
