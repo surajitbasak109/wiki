@@ -1,4 +1,5 @@
 title: Wiki of Surajit Basak
+author: Surajit Basak
 description: Records of questions in Information Technology
 show_downloads: false
 google_analytics:
@@ -7,3 +8,22 @@ markdown: kramdown
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+navbar-links:
+  Wiki: "wiki"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://surajitbasak109.github.com"
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+social-network-links:
+  email: "surajitbasak109@gmail.com"
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: surajitbasak109
+  github: surajitbasak109
+  twitter: surajitbasak109
+  whatsapp: 9749129272
+  linkedin: surajitbasak
