@@ -1,5 +1,8 @@
 # HR Questions
 
+* TOC
+{:toc}
+
 ## Where do you want to see yourself after 5 years?
 
 To achieve your goal of becoming a Tech Lead in five years, you can follow a structured approach focusing on skill development, experience, and networking. Here's a detailed plan:

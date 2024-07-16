@@ -1,5 +1,8 @@
 # Technical Questions
 
+* TOC
+{:toc}
+
 ## How can we do Api performance optimization?
 
 API performance optimization involves a variety of strategies and best practices to ensure your APIs are efficient, fast, and scalable. Here are several approaches you can take:
